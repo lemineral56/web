@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Maskapai</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <form id="search-section">
+        <label for="jenis-tiket">Jenis Tiket : </label>
+        <select name="jenis-tiket" id="jenis">
+            <option value="">JenisTiket</option>
+            <option value="Oneway">Oneway</option>
+            <option value="Return">Return</option>
+        </select>
+
+        <label for="harga">Harga : <input type="text" id="harga" placeholder="harga-awal"></label>
+        <label for="hingga"> - hingga : <input type="text" id="hingga" placeholder="hingga"></label>
+
+        <button type="button" id="cari" onclick="searchItem()">Cari</button>
+    </form>
+
+<!-- Make table not display at first, but if search invoked, table will be display -->
+    <table id="container"></table>
+
+    <script src="search.js"></script>
+</body>
+</html>

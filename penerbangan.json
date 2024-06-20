@@ -1,0 +1,83 @@
+[
+    {
+      "Kode": "AA011",
+      "Tujuan": "Singapore",
+      "Maskapai": "Air Asia",
+      "Jenis": "Economy",
+      "Oneway": 375000,
+      "Return": 650000
+    },
+    {
+      "Kode": "SC001",
+      "Tujuan": "Singapore",
+      "Maskapai": "Scoot",
+      "Jenis": "Economy",
+      "Oneway": 400000,
+      "Return": 770000
+    },
+    {
+      "Kode": "SA050",
+      "Tujuan": "Singapore",
+      "Maskapai": "Singapore Airlines",
+      "Jenis": "Business",
+      "Oneway": 750000,
+      "Return": 1400000
+    },
+    {
+      "Kode": "GD101",
+      "Tujuan": "Istanbul",
+      "Maskapai": "Garuda",
+      "Jenis": "Business",
+      "Oneway": 600000,
+      "Return": 1150000
+    },
+    {
+      "Kode": "SC002",
+      "Tujuan": "Istanbul",
+      "Maskapai": "Scoot",
+      "Jenis": "Economy",
+      "Oneway": 4000000,
+      "Return": 7800000
+    },
+    {
+      "Kode": "GD102",
+      "Tujuan": "Istanbul",
+      "Maskapai": "Garuda",
+      "Jenis": "Business",
+      "Oneway": 7500000,
+      "Return": 14500000
+    },
+    {
+      "Kode": "GD103",
+      "Tujuan": "Istanbul",
+      "Maskapai": "Garuda",
+      "Jenis": "Executive",
+      "Oneway": 13000000,
+      "Return": 25000000
+    },
+    {
+      "Kode": "ET004",
+      "Tujuan": "Istanbul",
+      "Maskapai": "Emirate",
+      "Jenis": "Economy",
+      "Oneway": 5700000,
+      "Return": 11000000
+    },
+    {
+      "Kode": "ET005",
+      "Tujuan": "Istanbul",
+      "Maskapai": "Emirate",
+      "Jenis": "Business",
+      "Oneway": 8000000,
+      "Return": 15500000
+    },
+    {
+      "Kode": "ET006",
+      "Tujuan": "Istanbul",
+      "Maskapai": "Emirate",
+      "Jenis": "Executive",
+      "Oneway": 13600000,
+      "Return": 26000000
+    }
+  ]
+  
